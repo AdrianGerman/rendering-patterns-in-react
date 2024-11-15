@@ -93,6 +93,8 @@ section button {
     object-fit: cover;
   }
   & input {
+    background-color: var(--black);
+    color: white;
     border: none;
     border-radius: 8px;
     padding: 8px;
